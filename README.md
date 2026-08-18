@@ -1,6 +1,6 @@
 # DriftSense-X
 
-**Navigation-Error Recovery for Periodic DRAM Wafer Inspection**
+**Robust Localization Under Periodic DRAM Navigation Drift**
 
 DriftSense-X locates a reference DRAM structural pattern inside a larger,
 lower-magnification search image of the same wafer site — the "Navigation-
